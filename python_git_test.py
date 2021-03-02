@@ -1,2 +1,3 @@
 # adding a comment
-i = list(range(12))
+list1 = list("hello")
+print(list1)
